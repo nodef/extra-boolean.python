@@ -1,0 +1,7 @@
+language: python
+
+install:
+- bash "script.sh" install
+
+script:
+- bash "script.sh" deploy
