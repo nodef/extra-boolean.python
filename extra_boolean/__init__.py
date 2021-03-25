@@ -21,3 +21,5 @@ from .xnor import xnor
 # # COUNT, SELECT (VARIABLE)
 from .count import count
 from .select import select
+
+# EQV, IMP (SHORTCUTS)
