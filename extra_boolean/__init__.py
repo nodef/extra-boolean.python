@@ -23,3 +23,5 @@ from .count import count
 from .select import select
 
 # EQV, IMP (SHORTCUTS)
+from .eqv import eqv
+from .imp import imp
