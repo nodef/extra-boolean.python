@@ -1,4 +1,4 @@
-from .or import or
+from .or_ import or_
 
 
 def nor(a=False, b=False, c=False, d=False, e=False, f=False, g=False, h=False):
@@ -17,4 +17,4 @@ def nor(a=False, b=False, c=False, d=False, e=False, f=False, g=False, h=False):
   .. _📘:
     https://github.com/python3f/extra-boolean/wiki/nor
   """
-  return not or(a, b, c, d, e, f, g, h)
+  return not or_(a, b, c, d, e, f, g, h)

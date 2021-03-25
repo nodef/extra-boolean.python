@@ -1,4 +1,4 @@
-def or(a=False, b=False, c=False, d=False, e=False, f=False, g=False, h=False):
+def or_(a=False, b=False, c=False, d=False, e=False, f=False, g=False, h=False):
   """Checks if any value is true. `📘`_
 
   - a: 1st boolean

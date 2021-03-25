@@ -1,4 +1,4 @@
-def and(a=True, b=True, c=True, d=True, e=True, f=True, g=True, h=True):
+def and_(a=True, b=True, c=True, d=True, e=True, f=True, g=True, h=True):
   """Checks if all values are true. `📘`_
 
   - a: 1st boolean

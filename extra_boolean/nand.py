@@ -1,4 +1,4 @@
-from .and import and
+from .and_ import and_
 
 
 def nand(a=True, b=True, c=True, d=True, e=True, f=True, g=True, h=True):
@@ -17,4 +17,4 @@ def nand(a=True, b=True, c=True, d=True, e=True, f=True, g=True, h=True):
   .. _📘:
     https://github.com/python3f/extra-boolean/wiki/nand
   """
-  return not and(a, b, c, d, e, f, g, h)
+  return not and_(a, b, c, d, e, f, g, h)

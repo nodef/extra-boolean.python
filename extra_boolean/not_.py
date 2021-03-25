@@ -1,4 +1,4 @@
-def not(a):
+def not_(a):
   """Checks if value is false. `📘`_
 
   - a: a boolean
