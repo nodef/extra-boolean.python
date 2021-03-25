@@ -80,7 +80,28 @@ count(True, False, True)
 
 ## References
 
-- [GoDoc add newline character](https://stackoverflow.com/q/51641640/1413259)
+- [How to Build Your Very First Python Package](https://www.freecodecamp.org/news/build-your-first-python-package/)
+- [Test Python package publishing with the Test Python Package Index](https://test.pypi.org)
+- [How to use setup.py to install dependencies only?](https://stackoverflow.com/q/30797124/1413259)
+- [install_requires vs requirements files](https://packaging.python.org/discussions/install-requires-vs-requirements/)
+- [What does the “-U” option stand for in pip install -U](https://stackoverflow.com/a/12435220/1413259)
+- [Getting Started With Testing in Python](https://realpython.com/python-testing/)
+- [Import parent directory for brief tests](https://stackoverflow.com/a/11452413/1413259)
+- [pytest: Most useful command-line options](https://docs.pytest.org/en/reorganize-docs/new-docs/user/commandlineuseful.html)
+- [How to do relative imports in Python?](https://stackoverflow.com/a/7541369/1413259)
+- [How do I use a keyword as a variable name?](https://stackoverflow.com/q/37968516/1413259)
+- [pdoc: Auto-generate API documentation for Python projects](https://pdoc3.github.io/pdoc/)
+- [Docstrings in Python](https://www.datacamp.com/community/tutorials/docstrings-python)
+- [PEP 257 -- Docstring Conventions](https://www.python.org/dev/peps/pep-0257/)
+- [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+- [Twine is asking for my password each time : how to use the .pypirc](https://stackoverflow.com/a/57936053/1413259)
+- [TravisCI: Building Pull Requests](https://docs.travis-ci.com/user/pull-requests/)
+- [TravisCI: Building a Python Project](https://docs.travis-ci.com/user/languages/python/)
+- [Creating a clean gh-pages branch](https://gist.github.com/ramnathv/2227408)
+- [How to show only next line after the matched one?](https://stackoverflow.com/a/14310555/1413259)
+- [How To Check If a Directory Exists In a Shell Script](https://www.cyberciti.biz/faq/howto-check-if-a-directory-exists-in-a-bash-shellscript/)
+- [How do I trim leading and trailing whitespace from each line of some output?](https://unix.stackexchange.com/a/102229/166668)
+- [Bash if..else Statement](https://linuxize.com/post/bash-if-else-statement/)
 
 <br>
 <br>
