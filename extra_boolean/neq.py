@@ -5,10 +5,10 @@ def neq(a, b):
   - b: consequent
 
   Example:
-    >>> neq(true, false)  == true
-    >>> neq(false, true)  == true
-    >>> neq(true, true)   == false
-    >>> neq(false, false) == false
+    >>> neq(True, False)  == True
+    >>> neq(False, True)  == True
+    >>> neq(True, True)   == False
+    >>> neq(False, False) == False
 
   .. _📘:
     https://github.com/python3f/extra-boolean/wiki/neq

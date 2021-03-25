@@ -10,7 +10,7 @@ def parse(s):
     >>> parse("1")        == True
     >>> parse("truthy")   == True
     >>> parse("not off")  == True
-    >>> parse("not true") == False
+    >>> parse("not True") == False
     >>> parse("inactive") == False
     >>> parse("disabled") == False
 

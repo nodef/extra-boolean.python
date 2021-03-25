@@ -1,15 +1,15 @@
 def count(a=False, b=False, c=False, d=False, e=False, f=False, g=False, h=False):
-  """Counts no. of true values. `📘`_
+  """Counts no. of True values. `📘`_
 
   - a: 1st boolean
   - b: 2nd boolean
   - ...
 
   Example:
-    >>> count(true, true)                == 2
-    >>> count(true, false)               == 1
-    >>> count(true, true, true, false)   == 3
-    >>> count(false, true, false, false) == 1
+    >>> count(True, True)                == 2
+    >>> count(True, False)               == 1
+    >>> count(True, True, True, False)   == 3
+    >>> count(False, True, False, False) == 1
 
   .. _📘:
     https://github.com/python3f/extra-boolean/wiki/count

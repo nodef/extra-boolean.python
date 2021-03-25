@@ -1,15 +1,15 @@
 def or_(a=False, b=False, c=False, d=False, e=False, f=False, g=False, h=False):
-  """Checks if any value is true. `📘`_
+  """Checks if any value is True. `📘`_
 
   - a: 1st boolean
   - b: 2nd boolean
   - ...
 
   Example:
-    >>> or(true, false)                == true
-    >>> or(false, false)               == false
-    >>> or(false, true, false, true)   == true
-    >>> or(false, false, false, false) == false
+    >>> or_(True, False)                == True
+    >>> or_(False, False)               == False
+    >>> or_(False, True, False, True)   == True
+    >>> or_(False, False, False, False) == False
 
   .. _📘:
     https://github.com/python3f/extra-boolean/wiki/or

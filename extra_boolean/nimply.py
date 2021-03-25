@@ -8,10 +8,10 @@ def nimply(a, b):
   - b: consequent
 
   Example:
-    >>> nimply(true, false)  == true
-    >>> nimply(true, true)   == false
-    >>> nimply(false, true)  == false
-    >>> nimply(false, false) == false
+    >>> nimply(True, False)  == True
+    >>> nimply(True, True)   == False
+    >>> nimply(False, True)  == False
+    >>> nimply(False, False) == False
 
   .. _📘:
     https://github.com/python3f/extra-boolean/wiki/nimply

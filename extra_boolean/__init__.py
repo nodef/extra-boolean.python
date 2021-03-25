@@ -1,3 +1,5 @@
+"""Boolean data type has two possible truth values to represent logic."""
+
 # PARSE
 from .parse import parse
 

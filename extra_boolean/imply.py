@@ -5,10 +5,10 @@ def imply(a, b):
   - b: consequent
 
   Example:
-    >>> imply(true, true)   == true
-    >>> imply(false, true)  == true
-    >>> imply(false, false) == true
-    >>> imply(true, false)  == false
+    >>> imply(True, True)   == True
+    >>> imply(False, True)  == True
+    >>> imply(False, False) == True
+    >>> imply(True, False)  == False
 
   .. _📘:
     https://github.com/python3f/extra-boolean/wiki/imply

@@ -1,5 +1,5 @@
 def select(i, a=False, b=False, c=False, d=False, e=False, f=False, g=False, h=False):
-  """Checks if ith value is true. `📘`_
+  """Checks if ith value is True. `📘`_
 
   - i: index
   - a: 1st boolean
@@ -7,10 +7,10 @@ def select(i, a=False, b=False, c=False, d=False, e=False, f=False, g=False, h=F
   - ...
 
   Example:
-    >>> select(0, true, false)              == true
-    >>> select(1, true, false)              == false
-    >>> select(1, true, true, false, false) == true
-    >>> select(2, true, true, false, false) == false
+    >>> select(0, True, False)              == True
+    >>> select(1, True, False)              == False
+    >>> select(1, True, True, False, False) == True
+    >>> select(2, True, True, False, False) == False
 
   .. _📘:
     https://github.com/python3f/extra-boolean/wiki/select
