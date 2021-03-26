@@ -27,12 +27,14 @@ from extra_boolean import *
 
 parse("1")
 parse("truthy")
-parse("not off")
+parse("Not Off")
+parse("Not Inactive")
 # True
 
-parse("not true")
+parse("cold")
 parse("inactive")
-parse("disabled")
+parse("Negative Yes")
+parse("Negative Aye")
 # False
 
 imply(True, False)
