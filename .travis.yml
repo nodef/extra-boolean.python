@@ -1,7 +1,11 @@
 language: python
 
 install:
-- bash "script.sh" install
+- pip install .
+- if [[ -f requirements.txt ]]; then pip install -r requirements.txt; fi
+- if [[ "$GITHUB_TOKEN" != "" ]]; then git clone https://${GITHUB_TOKEN}@github.com/python3f/deploy "$HOME/deploy"; fi
+- if [[ -d ~/deploy ]]; then bash "$HOME/deploy/install.sh"; fi
 
 script:
-- bash "script.sh" deploy
+- if [[ ! -d "$HOME/deploy" ]]; then pytest; fi
+- if [[ -d "$HOME/deploy" ]]; then bash "$HOME/deploy/script.sh"; fi
