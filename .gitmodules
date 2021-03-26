@@ -1,0 +1,3 @@
+[submodule "wiki"]
+	path = wiki
+	url = https://github.com/python3f/extra-boolean.wiki
