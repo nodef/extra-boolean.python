@@ -59,7 +59,7 @@ count(True, False, True)
 
 ## Index
 
-| Name     | Action                                     |
+| Function | Action                                     |
 | -------- | ------------------------------------------ |
 | [parse]  | Converts string to boolean.                |
 | [not_]   | Checks if value is false.                  |
