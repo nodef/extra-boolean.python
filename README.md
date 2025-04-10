@@ -109,6 +109,7 @@ count(True, False, True)
 <br>
 
 [![](https://img.youtube.com/vi/6mMK6iSZsAs/maxresdefault.jpg)](https://www.youtube.com/watch?v=6mMK6iSZsAs)
+![](https://ga-beacon.deno.dev/G-RC63DPBH3P:SH3Eq-NoQ9mwgYeHWxu7cw/github.com/nodef/extra-boolean.python)
 
 [Boolean]: https://realpython.com/python-boolean/#the-python-boolean-type
 ["boolean"]: https://www.npmjs.com/package/boolean
